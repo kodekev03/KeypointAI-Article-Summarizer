@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="popup.css">
+  <title>AI Article Summarizer</title>
+</head>
+<body>
+  <h1>AI Article Summarizer</h1>
+  <textarea id="article-text" rows="10" cols="30" placeholder="Paste the article text here..."></textarea>
+  <label for="summary-length">Summary Length:</label>
+  <input type="range" id="summary-length" min="1" max="10" value="5">
+  <button id="summarize">Summarize</button>
+  <h2>Summary:</h2>
+  <div id="summary-text"></div>
+  <script src="popup.js"></script>
+</body>
+</html>

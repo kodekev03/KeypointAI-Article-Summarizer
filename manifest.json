@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "AI Article Summarizer",
+  "version": "1.0",
+  "description": "Quickly summarize lengthy articles, blog posts, or research papers.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab", "storage"]
+}
