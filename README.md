@@ -1,4 +1,4 @@
-# SaberAI-Article-Summarizer
+# KeypointAI-Article-Summarizer
 AI Summarizing Tool is used as a Chrome Extension to summarize any lengthy articles, pages, books, etc.
 * Summarizes any web page and you can choose how long you want the summarization 
 - - - 
