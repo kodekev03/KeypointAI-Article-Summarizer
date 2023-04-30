@@ -8,3 +8,5 @@ Languages used: HTML, CSS, JavaScript
 
 
 The goal of the article summarizer is to utilize OpenAI's GPT-4 API in order to be able to summarize anything you paste into the text box.
+
+* The API has not been implemented into the code yet, this is still an active project.
