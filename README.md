@@ -4,7 +4,7 @@ AI Summarizing Tool is used as a Chrome Extension to summarize any lengthy artic
 - - - 
 
 Languages used: HTML, CSS, JavaScript
-- Utilizes GPT-4 API
+- Utilizes GPT-3.5Turbo API (with intent to upgrade to GPT-4)
 
 
 The goal of the article summarizer is to utilize OpenAI's GPT-4 API in order to be able to summarize anything you paste into the text box.
