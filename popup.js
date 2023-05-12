@@ -17,8 +17,8 @@ document.getElementById("summarize").addEventListener("click", async () => {
 });
 
 async function summarizeArticle(articleText, summaryLength) {
-  // Replace the following line with the actual API call to ChatGPT or any other summarization API
-  const response = await fetch("https://your-summarization-api.example.com/summarize", {
+  // This line is meant to be replaced with the API to call to utilize ChatGPT
+  const response = await fetch("Summarization API", {
     method: "POST",
     headers: {
       "Content-Type": "application/json"
